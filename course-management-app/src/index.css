@@ -1,0 +1,18 @@
+/* Import Google Fonts */
+@import "tailwindcss";
+
+*{
+  box-sizing: border-box;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+body{
+  padding-top: 90px;
+}
