@@ -2,7 +2,7 @@ import axios from "axios";
 import { v4 as uuidv4 } from "uuid";
 import { useEffect, useState } from "react";
 import Heading from "../components/Heading";
-import EachCourseItem from "../components/eachCourseItem";
+import EachCourseItem from "../components/EachCourseItem";
 import Sidebar from "../components/Sidebar";
 import CourseDetailsPage from "./CourseDetailsPage";
 
