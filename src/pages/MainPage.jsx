@@ -4,7 +4,7 @@ import Heading from "../components/Heading";
 import axios from "axios";
 import Loader from "../components/Loader";
 import ChipTextWithCategory from "../components/ChipTextWithCategory";
-import EachCourseItem from "../components/eachCourseItem";
+import EachCourseItem from "../components/EachCourseItem";
 import PriceContainer from "../components/PriceContainer";
 import Footer from "../components/Footer";
 import { setCourses } from "../store/features/EnrollmentCourses/enrollmentCoursesSlice";
